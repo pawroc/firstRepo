@@ -1,7 +1,0 @@
-Repo1 adds first line into File1.txt.
-<<<<<<< HEAD
-New line from Repo2
-=======
-New line from Repo1
->>>>>>> bb84ace584981e04c33d0c07abb93734e5c970e9
-
